@@ -53,42 +53,40 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  09.05.23     |     Justus  |          Menubar für "Resultate-button"          |      40         |
-| 1.B  |  16.05.23     |    Justus  |           Dropdownmenu zur Auswahl des Jahres der Meisterschaft       |      40         |
-| ...  |       |              Justus |  Farbmenu erstellen                            |             |
-| ...  |       |                Justus |  Hintergrund in Whitemode ertellen           |             |
-| ...  |       |               Justus  | Hintergrund in Darkmode ertellen             |             |
-| ...  |       |                Justus  |   Menu für Sprachenauswahl                                          |             |
-| ...  |       |                Justus   |   Webseite kann auf Deutsch eingestellt werden                              |               |
-| ...  |       |               Justus     |   Webseite kann auf Englisch eingestellt werden                           |               |
-| ...  |       |              Lennard     |    Schöne Gestalltung                       |               |
-| ...  |       |                  Lennard |                                        |               |
-| ...  |       |                 Lennard  |                                            |               |
-| ...  |       |                Lennard   |                                             |               |
-| ...  |       |                  Lennard |                                            |               |
-| ...  |       |                 Lennard  |                                             |               |
-| ...  |       |                  Lennard  |                                             |               |
-| ...  |       |                  Lennard  |                                              |               |
-| ...  |       |                  Timo     |                                              |               |
-| ...  |       |                  Timo     |                                            |               |
-| ...  |       |                  Timo    |                                             |               |
-| ...  |       |                  Timo    |                                              |               |
-| ...  |       |                  Timo     |                                             |               |
-| ...  |       |                  Timo     |                                            |               |
-| ...  |       |                  Timo     |                                              |               |
-| ...  |       |                  Timo     |                                             |               |
-| ...  |       |                  Cyril    |                                            |               |
-| ...  |       |                   Cyril   |                                            |               |
-| ...  |       |                   Cyril   |                                           |               |
-| ...  |       |                   Cyril   |                                             |               |
-| ...  |       |                   Cyril   |                                            |               |
-| ...  |       |                   Cyril   |                                            |               |
-| ...  |       |                    Cyril  |                                             |               |
-| ...  |       |                   Cyril   |                                             |               |
+| 2.A  |  16.05.23     |    Justus  |           Dropdownmenu zur Auswahl des Jahres der Meisterschaft       |      40         |
+| 3.A  |       |              Justus |  Farbmenu erstellen                            |             |
+| 4.A  |       |                Justus |  Hintergrund in Whitemode ertellen           |             |
+| 5.A  |       |               Justus  | Hintergrund in Darkmode ertellen             |             |
+| 6.A  |       |                Justus  |   Menu für Sprachenauswahl                                          |             |
+| 7.A  |       |                Justus   |   Webseite kann auf Deutsch eingestellt werden                              |               |
+| 8.A  |       |               Justus     |   Webseite kann auf Englisch eingestellt werden                           |               |
+| 9.A  |       |              Lennard     |    Schöne Gestalltung                       |               |
+| 10.A  |       |                  Lennard |     Button für Ereignisse                                   |               |
+| 11.A  |       |                 Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|     |
+| 12.A  |       |                Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse         |               |
+| 13.A  |       |                  Lennard |    Es gibt Fussballfeld einen Hintergrund                                |             |
+| 14.A  |       |                 Lennard  |  Auf dem Fussballfeld befinden sich Spieler in Blau                   |               |
+| 15.A  |       |                  Lennard  | Auf dem Fussballfeld befinden sich Spieler in Grün             |             |                                             
+| 16.A  |       |                  Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Geld             |               |
+| 17.A  |       |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |              |
+| 18.A  |       |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |               |
+| 19.A  |       |                  Timo    |                                             |               |
+| 20.A  |       |                  Timo    |                                              |               |
+| 21.A  |       |                  Timo     |                                             |               |
+| 22.A  |       |                  Timo     |                                            |               |
+| 23.A  |       |                  Timo     |                                              |               |
+| 24.A  |       |                  Timo     |                                             |               |
+| 25.A  |       |                  Cyril    |   Es gibt verschiedene Schriftarten auf der Website                    |               |
+| 26.A  |       |                   Cyril   |   Es gibt einen Button für den Filter                          |               |
+| 27.A  |       |                   Cyril   |   Der Filter kann nach Tordifferenz filtern                       |               |
+| 28.A  |       |                   Cyril   |  Der Filter kann nach Land filtern                               |               |
+| 29.A  |       |                   Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |               |
+| 30.A  |       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |               |
+| 31.A  |       |                    Cyril  |  Der Filter kann runde suchen wo Rausgeflogen                |               |
+| 32.A  |       |                   Cyril   |                                             |               |
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
@@ -98,8 +96,40 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |       |     Justus      |               |                   |
+| ...  |       |      Justus     |               |                   |
+| ...  |       |      Justus     |               |                   |
+| ...  |       |     Justus      |               |                   |
+| ...  |       |     Justus      |               |                   |
+| ...  |       |    Justus       |               |                   |
+| ...  |       |    Justus       |               |                   |
+| ...  |       |    Justus       |               |                   |
+| ...  |       |    Lennard       |               |                   |
+| ...  |       |     Lennard      |               |                   |
+| ...  |       |     Lennard      |               |                   |
+| ...  |       |      Lennard     |               |                   |
+| ...  |       |     Lennard      |               |                   |
+| ...  |       |    Lennard       |               |                   |
+| ...  |       |    Lennard       |               |                   |
+| ...  |       |    Lennard       |               |                   |
+| ...  |       |     Timo      |               |                   |
+| ...  |       |      Timo     |               |                   |
+| ...  |       |     Timo      |               |                   |
+| ...  |       |     Timo      |               |                   |
+ ...  |       |     Timo      |               |                   |
+| ...  |       |      Timo     |               |                   |
+| ...  |       |     Timo      |               |                   |
+| ...  |       |     Timo      |               |                   |
+| ...  |       |     Cyril      |               |                   |
+| ...  |       |     Cyril      |               |                   |
+| ...  |       |      Cyril     |               |                   |
+| ...  |       |     Cyril      |               |                   |
+| ...  |       |      Cyril     |               |                   |
+| ...  |       |     Cyril      |               |                   |
+| ...  |       |     Cyril      |               |                   |
+| ...  |       |      Cyril     |               |                   |
+
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
