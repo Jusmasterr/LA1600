@@ -24,11 +24,11 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  |                   |      | Als Benutzer möchte ich die Ergebnisse vergangener Weltmeisterschaften einsehen, um die Resultate der einzelnen Spiele nachschlagen zu können.       |
-| 2  |                   |      |  Als Benutzer möchte ich den Gewinner vergangener Weltmeisterschaften einsehen, um zu erfahren, welche Nation die meisten Siege verbucht hat.    |                               
-| 3  |    |      |   Als Benutzer möchte ich zwischen einem hellen und dunklen Modus wählen können, um die Webseite nach meinen persönlichen Vorlieben zu gestalten.    |                            
-| 4  |                   |      |    Als Benutzer möchte ich eine Auswahl zwischen zwei Sprachen haben, damit auch Personen, die kein Deutsch verstehen, die Webseite nutzen können.                                |
-| 5  |                   |      |    Als Benutzer möchte ich Informationen über besondere Ereignisse und Aktionen vergangener Weltmeisterschaften erhalten, um über diese Ereignisse informiert zu sein.                             |
+| 1  |    Muss               | funktional     | Als Benutzer möchte ich die Ergebnisse vergangener Weltmeisterschaften einsehen, um die Resultate der einzelnen Spiele nachschlagen zu können.       |
+| 2  |    Muss               |   funktional   |  Als Benutzer möchte ich den Gewinner vergangener Weltmeisterschaften einsehen, um zu erfahren, welche Nation die meisten Siege verbucht hat.    |                               
+| 3  | Kann   | funktional     |   Als Benutzer möchte ich zwischen einem hellen und dunklen Modus wählen können, um die Webseite nach meinen persönlichen Vorlieben zu gestalten.    |                            
+| 4  |         Kann          |  funktional    |    Als Benutzer möchte ich eine Auswahl zwischen zwei Sprachen haben, damit auch Personen, die kein Deutsch verstehen, die Webseite nutzen können.                                |
+| 5  |      Muss             |  funktional    |    Als Benutzer möchte ich Informationen über besondere Ereignisse und Aktionen vergangener Weltmeisterschaften erhalten, um über diese Ereignisse informiert zu sein.                             |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -36,8 +36,12 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |   Webseite ist geöffnet           | Man drückt auf den Button mit dem Namen Resultaten         |     Die Resultate der vergangenen Weltmeisterschaften werden ausgegeben            |
+| 2.1  |              |         |                   |
+| 3.1  |   Menu ist offen           |  Man wechselt den Farbmodus       |        Die Webseite geht in den Dark- oder White Mode          |
+| 4.1  |   Sprachmenu ist offen           | Man wechselt die Sprache        |   Die meue Sprache der Webseite ist ausgewählte.                 |
+| 5.1  |              |         |                   |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
