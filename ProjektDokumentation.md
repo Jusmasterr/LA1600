@@ -43,7 +43,6 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 5.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -53,8 +52,29 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  |  09.05.23     |     Justus      |    Menubar für "Resultate-button"          |      20         |
+| 1.B  |  16.05.23     |    Justus       |       Dropdownmenu zur auswahl des Jahres der Meisterschaft       |      30         |
 | ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+
 
 Total: 
 
