@@ -18,14 +18,17 @@ https://jusmasterr.github.io/LA1600/
 
 Wir erstellen eine Webseite über die letzten fünf Fußball-Weltmeisterschaften, auf der man die Resultate, sowie spezielle Aktionen oder Ereignisse dieser Weltmeisterschaften ansehen kann.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellung einer Webseite zu erlernen, einschließlich des dazugehörigen Code-Schreibens. Unser Ziel ist es, fundiertes Wissen über Webdesign und -entwicklung zu erwerben. Wir konzentrieren uns darauf, die Grundlagen der Webseitengestaltung und Programmierung zu beherrschen, um eine ästhetisch ansprechende und benutzerfreundliche Benutzeroberfläche zu erstellen. Durch den Einsatz moderner Technologien und bewährter Praktiken streben wir an, innovative Lösungen zu entwickeln und ein optimales Nutzererlebnis zu gewährleisten. Wir sind begeistert von dieser Herausforderung und freuen uns darauf, unsere Fähigkeiten in diesem spannenden Projekt weiterzuentwickeln.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1  |                   |      | Als Benutzer möchte ich die Ergebnisse vergangener Weltmeisterschaften einsehen, um die Resultate der einzelnen Spiele nachschlagen zu können.       |
+| 2  |                   |      |  Als Benutzer möchte ich den Gewinner vergangener Weltmeisterschaften einsehen, um zu erfahren, welche Nation die meisten Siege verbucht hat.    |                               
+| 3  |    |      |   Als Benutzer möchte ich zwischen einem hellen und dunklen Modus wählen können, um die Webseite nach meinen persönlichen Vorlieben zu gestalten.    |                            
+| 4  |                   |      |    Als Benutzer möchte ich eine Auswahl zwischen zwei Sprachen haben, damit auch Personen, die kein Deutsch verstehen, die Webseite nutzen können.                                |
+| 5  |                   |      |    Als Benutzer möchte ich Informationen über besondere Ereignisse und Aktionen vergangener Weltmeisterschaften erhalten, um über diese Ereignisse informiert zu sein.                             |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
