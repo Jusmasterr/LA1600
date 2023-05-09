@@ -70,7 +70,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 16.A  |       |                  Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Geld             |               |
 | 17.A  |       |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |              |
 | 18.A  |       |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |               |
-| 19.A  |       |                  Timo    |                                             |               |
+| 19.A  |       |                  Timo    |    Grunddesign der Webseite erstellen                                     |               |
 | 20.A  |       |                  Timo    |                                              |               |
 | 21.A  |       |                  Timo     |                                             |               |
 | 22.A  |       |                  Timo     |                                            |               |
@@ -83,7 +83,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 29.A  |       |                   Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |               |
 | 30.A  |       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |               |
 | 31.A  |       |                    Cyril  |  Der Filter kann runde suchen wo Rausgeflogen                |               |
-| 32.A  |       |                   Cyril   |                                             |               |
+| 32.A  |       |                   Cyril   |  Webseiten Titel mit Farbe etc. ertellen                         |               |
 Total: 
 
 
