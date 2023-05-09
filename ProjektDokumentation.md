@@ -52,30 +52,38 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  09.05.23     |     Justus      |    Menubar für "Resultate-button"          |      20         |
-| 1.B  |  16.05.23     |    Justus       |       Dropdownmenu zur auswahl des Jahres der Meisterschaft       |      30         |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-
-
+| 1.A  |  09.05.23     |     Justus  |          Menubar für "Resultate-button"          |      40         |
+| 1.B  |  16.05.23     |    Justus  |           Dropdownmenu zur Auswahl des Jahres der Meisterschaft       |      40         |
+| ...  |       |              Justus |  Farbmenu erstellen                            |             |
+| ...  |       |                Justus |  Hintergrund in Whitemode ertellen           |             |
+| ...  |       |               Justus  | Hintergrund in Darkmode ertellen             |             |
+| ...  |       |                Justus  |   Menu für Sprachenauswahl                                          |             |
+| ...  |       |                Justus   |   Webseite kann auf Deutsch eingestellt werden                              |               |
+| ...  |       |               Justus     |   Webseite kann auf Englisch eingestellt werden                           |               |
+| ...  |       |              Lennard     |    Schöne Gestalltung                       |               |
+| ...  |       |                  Lennard |                                        |               |
+| ...  |       |                 Lennard  |                                            |               |
+| ...  |       |                Lennard   |                                             |               |
+| ...  |       |                  Lennard |                                            |               |
+| ...  |       |                 Lennard  |                                             |               |
+| ...  |       |                  Lennard  |                                             |               |
+| ...  |       |                  Lennard  |                                              |               |
+| ...  |       |                  Timo     |                                              |               |
+| ...  |       |                  Timo     |                                            |               |
+| ...  |       |                  Timo    |                                             |               |
+| ...  |       |                  Timo    |                                              |               |
+| ...  |       |                  Timo     |                                             |               |
+| ...  |       |                  Timo     |                                            |               |
+| ...  |       |                  Timo     |                                              |               |
+| ...  |       |                  Timo     |                                             |               |
+| ...  |       |                  Cyril    |                                            |               |
+| ...  |       |                   Cyril   |                                            |               |
+| ...  |       |                   Cyril   |                                           |               |
+| ...  |       |                   Cyril   |                                             |               |
+| ...  |       |                   Cyril   |                                            |               |
+| ...  |       |                   Cyril   |                                            |               |
+| ...  |       |                    Cyril  |                                             |               |
+| ...  |       |                   Cyril   |                                             |               |
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -84,7 +92,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode in unsere Webseite zu integrieren. Dieses Designkonzept wird von uns allen als passend empfunden und trägt oft zu einer verbesserten Ästhetik bei. Zudem haben wir beschlossen, unseren Benutzern eine Sprachauswahl anzubieten, wobei wir uns jedoch auf die englische Sprache beschränken. Wir sind zu dem Schluss gekommen, dass zusätzliche Sprachen unnötig wären und auch mit einem erheblichen Aufwand verbunden wären. Durch diese Entscheidungen möchten wir eine konsistente Benutzererfahrung gewährleisten und den Entwicklungsaufwand optimieren.
 
 ## 4 Realisieren
 
