@@ -5,9 +5,12 @@ https://jusmasterr.github.io/LA1600/
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   09.05.2023    | 0.0.1   |                                                              |
+|  16.05.2023       | 0.0.2     |                                                              |
+|  23.05.2023       | 0.0.3     |                                                              |
+|  30.05.2023       | 0.0.4     |                                                              |
+|  06.06.2023       | 0.0.5     |                                                                                                                                                                     
+|    13.05.2023      | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
