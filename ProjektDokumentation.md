@@ -16,7 +16,7 @@ https://jusmasterr.github.io/LA1600/
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir erstellen eine Webseite über die letzten fünf Fußball-Weltmeisterschaften, auf der man die Resultate, sowie spezielle Aktionen oder Ereignisse dieser Weltmeisterschaften ansehen kann.
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
