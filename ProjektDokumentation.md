@@ -36,11 +36,11 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   Webseite ist geöffnet           | Man drückt auf den Button mit dem Namen Resultaten         |     Die Resultate der vergangenen Weltmeisterschaften werden ausgegeben            |
-| 2.1  |              |         |                   |
-| 3.1  |   Menu ist offen           |  Man wechselt den Farbmodus       |        Die Webseite geht in den Dark- oder White Mode          |
-| 4.1  |   Sprachmenu ist offen           | Man wechselt die Sprache        |   Die meue Sprache der Webseite ist ausgewählte.                 |
-| 5.1  |              |         |                   |
+| 1.1  |   Webseite ist geöffnet           | Klicken auf den Button "Resultate"        |     Die Resultate der vergangenen Weltmeisterschaften werden angezeigt.            |
+| 2.1  |     Webseite ist geöffnet          |Klicken auf den Button "Resultate" und anschließend nach den Siegern suchen | Die Gewinner der vergangenen Weltmeisterschaften werden angezeigt.  |
+| 3.1  |       Das Menü ist geöffnet      | Auswahl des Farbmoduswechsels       |   Die Webseite wechselt in den Dark- oder White-Mode.            |
+| 4.1  |   Sprachmenu ist offen           | Man wechselt die Sprache        |   Die Webseite wird in der ausgewählten Sprache angezeigt.                 |
+| 5.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
