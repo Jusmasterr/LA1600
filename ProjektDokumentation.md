@@ -54,35 +54,35 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  09.05.23     |     Justus  |          Menubar für "Resultate-button"          |      40         |
 | 2.A  |  16.05.23     |    Justus  |           Dropdownmenu zur Auswahl des Jahres der Meisterschaft       |      40         |
-| 3.A  |       |              Justus |  Farbmenu erstellen                            |     30        |
-| 4.A  |       |                Justus |  Hintergrund in Whitemode ertellen           |     50        |
+| 3.A  |     06.06.2023   |              Justus |  Farbmenu erstellen                            |     30        |
+| 4.A  | 23.05.2023       |                Justus |  Hintergrund in Whitemode ertellen           |     50        |
 | 5.A  |   30.05.2023          |               Justus  | Hintergrund in Darkmode ertellen             |    30         |
-| 6.A  |       |                Justus  |   Menu für Sprachenauswahl                                          |   35          |
-| 7.A  |       |                Justus   |   Webseite kann auf Deutsch eingestellt werden                              |    45         |
+| 6.A  |   06.06.2023  |                Justus  |   Menu für Sprachenauswahl                                          |   35          |
+| 7.A  | 23.05.2023|           Justus   |   Webseite kann auf Deutsch eingestellt werden                              |    45         |
 | 8.A  |  30.05.2023|         Justus     |   Webseite kann auf Englisch eingestellt werden                           |    60          |
-| 9.A  |       |              Lennard     |    Schöne Gestalltung                       |    45           |
-| 10.A  |       |                  Lennard |     Button für Ereignisse                                   |      30         |
+| 9.A  | 23.05.2023       |              Lennard     |    Schöne Gestalltung                       |    45           |
+| 10.A  | 06.06.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
 | 11.A  | 30.05.2023|     Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
-| 12.A  |       |                Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse         |    40        |
-| 13.A  |       |                  Lennard |    Es gibt Fussballfeld einen Hintergrund                                |    80         |
-| 14.A  |       |                 Lennard  |  Auf dem Fussballfeld befinden sich Spieler in Blau                   |     50          |
-| 15.A  |       |                  Lennard  | Auf dem Fussballfeld befinden sich Spieler in Grün             |  40           |                                             
-| 16.A  |       |                  Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Geld             |    45           |
-| 17.A  |       |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |     30         |
-| 18.A  |       |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |    40           |
-| 19.A  |       |                  Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
-| 20.A  |       |                  Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
-| 21.A  |  30.05.2023|     Timo     | Es gibt einen Button für den Filter                           | 45              |
+| 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse         |    40        |
+| 13.A  |   06.06.2023|            Lennard |    Es gibt Fussballfeld einen Hintergrund                                |    80         |
+| 14.A  |23.05.2023  |             Lennard  |  Auf dem Fussballfeld befinden sich Spieler in Blau                   |     50          |
+| 15.A  |     06.06.202 |                  Lennard  | Auf dem Fussballfeld befinden sich Spieler in Grün             |  40           |                                             
+| 16.A  |23.05.2023        |     Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Geld             |    45           |
+| 17.A  | 23.05.2023 |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |     30         |
+| 18.A  |    06.06.2023 |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |    40           |
+| 19.A  |    06.06.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
+| 20.A  |     23.05.2023   |     Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
+| 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
 | 22.A  |       |                  Timo     |                                            |               |
 | 23.A  |       |                  Timo     |                                              |               |
 | 24.A  |       |                  Timo     |                                             |               |
 | 25.A  |       |                  Cyril    |                      |               |
 | 26.A  |       |                   Cyril   |                           |               |
-| 27.A  |       |                   Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
+| 27.A  |      06.06.2023  |                   Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
 | 28.A  | 30.05.2023|                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
-| 29.A  |       |                   Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
-| 30.A  |       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |  30             |
-| 31.A  |       |                    Cyril  |  Der Filter kann runde suchen wo Rausgeflogen                |    40           |
+| 29.A  |    06.06.2023    |       Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
+| 30.A  | 23.05.2023       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |  30             |
+| 31.A  |   06.06.2023     |           Cyril  |  Der Filter kann runde suchen wo Rausgeflogen                |    40           |
 | 32.A  |  30.05.2023     |                   Cyril   |  Webseiten Titel mit Farbe etc. ertellen                         |    30           |
 Total: 
 
