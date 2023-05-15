@@ -106,28 +106,28 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 8.A  |       |    Justus       |    60           |                   |
 | 9.A  |       |    Lennard       |   45            |                   |
 | 10.A  |       |     Lennard      |               |                   |
-| ...  |       |     Lennard      |               |                   |
-| ...  |       |      Lennard     |               |                   |
-| ...  |       |     Lennard      |               |                   |
-| ...  |       |    Lennard       |               |                   |
-| ...  |       |    Lennard       |               |                   |
-| ...  |       |    Lennard       |               |                   |
-| ...  |       |     Timo      |               |                   |
-| ...  |       |      Timo     |               |                   |
-| ...  |       |     Timo      |               |                   |
-| ...  |       |     Timo      |               |                   |
- ...  |       |     Timo      |               |                   |
-| ...  |       |      Timo     |               |                   |
-| ...  |       |     Timo      |               |                   |
-| ...  |       |     Timo      |               |                   |
-| ...  |       |     Cyril      |               |                   |
-| ...  |       |     Cyril      |               |                   |
-| ...  |       |      Cyril     |               |                   |
-| ...  |       |     Cyril      |               |                   |
-| ...  |       |      Cyril     |               |                   |
-| ...  |       |     Cyril      |               |                   |
-| ...  |       |     Cyril      |               |                   |
-| ...  |       |      Cyril     |               |                   |
+| 11.A  |       |     Lennard      |               |                   |
+| 12.A  |       |      Lennard     |               |                   |
+| 13.A  |       |     Lennard      |               |                   |
+| 14.A  |       |    Lennard       |               |                   |
+| 15.A  |       |    Lennard       |               |                   |
+| 16.A  |       |    Lennard       |               |                   |
+| 17.A  |       |     Timo      |               |                   |
+| 18.A  |       |      Timo     |               |                   |
+| 19.A  |       |     Timo      |               |                   |
+| 20.A  |       |     Timo      |               |                   |
+| 21.A  |       |     Timo      |               |                   |
+| 22.A  |       |      Timo     |               |                   |
+| 23.A  |       |     Timo      |               |                   |
+| 24.A  |       |     Timo      |               |                   |
+| 25.A  |       |     Cyril      |               |                   |
+| 26.A  |       |     Cyril      |               |                   |
+| 27.A  |       |      Cyril     |               |                   |
+| 28.A  |       |     Cyril      |               |                   |
+| 29.A  |       |      Cyril     |               |                   |
+| 30.A  |       |     Cyril      |               |                   |
+| 31.A  |       |     Cyril      |               |                   |
+| 32.A  |       |      Cyril     |               |                   |
 
 
 
