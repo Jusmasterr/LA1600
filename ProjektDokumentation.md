@@ -54,36 +54,36 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  09.05.23     |     Justus  |          Menubar für "Resultate-button"          |      40         |
 | 2.A  |  16.05.23     |    Justus  |           Dropdownmenu zur Auswahl des Jahres der Meisterschaft       |      40         |
-| 3.A  |       |              Justus |  Farbmenu erstellen                            |             |
-| 4.A  |       |                Justus |  Hintergrund in Whitemode ertellen           |             |
-| 5.A  |       |               Justus  | Hintergrund in Darkmode ertellen             |             |
-| 6.A  |       |                Justus  |   Menu für Sprachenauswahl                                          |             |
-| 7.A  |       |                Justus   |   Webseite kann auf Deutsch eingestellt werden                              |               |
-| 8.A  |       |               Justus     |   Webseite kann auf Englisch eingestellt werden                           |               |
-| 9.A  |       |              Lennard     |    Schöne Gestalltung                       |               |
-| 10.A  |       |                  Lennard |     Button für Ereignisse                                   |               |
-| 11.A  |       |                 Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|     |
-| 12.A  |       |                Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse         |               |
-| 13.A  |       |                  Lennard |    Es gibt Fussballfeld einen Hintergrund                                |             |
-| 14.A  |       |                 Lennard  |  Auf dem Fussballfeld befinden sich Spieler in Blau                   |               |
-| 15.A  |       |                  Lennard  | Auf dem Fussballfeld befinden sich Spieler in Grün             |             |                                             
-| 16.A  |       |                  Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Geld             |               |
-| 17.A  |       |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |              |
-| 18.A  |       |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |               |
-| 19.A  |       |                  Timo    |    Grunddesign der Webseite erstellen                                     |               |
-| 20.A  |       |                  Timo    |                                              |               |
-| 21.A  |       |                  Timo     |                                             |               |
+| 3.A  |       |              Justus |  Farbmenu erstellen                            |     30        |
+| 4.A  |       |                Justus |  Hintergrund in Whitemode ertellen           |     50        |
+| 5.A  |       |               Justus  | Hintergrund in Darkmode ertellen             |    30         |
+| 6.A  |       |                Justus  |   Menu für Sprachenauswahl                                          |   35          |
+| 7.A  |       |                Justus   |   Webseite kann auf Deutsch eingestellt werden                              |    45         |
+| 8.A  |       |               Justus     |   Webseite kann auf Englisch eingestellt werden                           |    60          |
+| 9.A  |       |              Lennard     |    Schöne Gestalltung                       |    45           |
+| 10.A  |       |                  Lennard |     Button für Ereignisse                                   |      30         |
+| 11.A  |       |                 Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
+| 12.A  |       |                Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse         |    40        |
+| 13.A  |       |                  Lennard |    Es gibt Fussballfeld einen Hintergrund                                |    80         |
+| 14.A  |       |                 Lennard  |  Auf dem Fussballfeld befinden sich Spieler in Blau                   |     50          |
+| 15.A  |       |                  Lennard  | Auf dem Fussballfeld befinden sich Spieler in Grün             |  40           |                                             
+| 16.A  |       |                  Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Geld             |    45           |
+| 17.A  |       |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |     30         |
+| 18.A  |       |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |    40           |
+| 19.A  |       |                  Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
+| 20.A  |       |                  Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
+| 21.A  |       |                  Timo     | Es gibt einen Button für den Filter                           | 45              |
 | 22.A  |       |                  Timo     |                                            |               |
 | 23.A  |       |                  Timo     |                                              |               |
 | 24.A  |       |                  Timo     |                                             |               |
-| 25.A  |       |                  Cyril    |   Es gibt verschiedene Schriftarten auf der Website                    |               |
-| 26.A  |       |                   Cyril   |   Es gibt einen Button für den Filter                          |               |
-| 27.A  |       |                   Cyril   |   Der Filter kann nach Tordifferenz filtern                       |               |
-| 28.A  |       |                   Cyril   |  Der Filter kann nach Land filtern                               |               |
-| 29.A  |       |                   Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |               |
-| 30.A  |       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |               |
-| 31.A  |       |                    Cyril  |  Der Filter kann runde suchen wo Rausgeflogen                |               |
-| 32.A  |       |                   Cyril   |  Webseiten Titel mit Farbe etc. ertellen                         |               |
+| 25.A  |       |                  Cyril    |                      |               |
+| 26.A  |       |                   Cyril   |                           |               |
+| 27.A  |       |                   Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
+| 28.A  |       |                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
+| 29.A  |       |                   Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
+| 30.A  |       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |  30             |
+| 31.A  |       |                    Cyril  |  Der Filter kann runde suchen wo Rausgeflogen                |    40           |
+| 32.A  |       |                   Cyril   |  Webseiten Titel mit Farbe etc. ertellen                         |    30           |
 Total: 
 
 
@@ -96,16 +96,16 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |     Justus      |               |                   |
-| ...  |       |      Justus     |               |                   |
-| ...  |       |      Justus     |               |                   |
-| ...  |       |     Justus      |               |                   |
-| ...  |       |     Justus      |               |                   |
-| ...  |       |    Justus       |               |                   |
-| ...  |       |    Justus       |               |                   |
-| ...  |       |    Justus       |               |                   |
-| ...  |       |    Lennard       |               |                   |
-| ...  |       |     Lennard      |               |                   |
+| 1.A  |       |     Justus      |   40            |                   |
+| 2.A  |       |      Justus     |     40          |                   |
+| 3.A  |       |      Justus     |    30           |                   |
+| 4.A  |       |     Justus      |   50            |                   |
+| 5.A  |       |     Justus      |   30            |                   |
+| 6.A  |       |    Justus       |   35            |                   |
+| 7.A  |       |    Justus       |    45           |                   |
+| 8.A  |       |    Justus       |    60           |                   |
+| 9.A  |       |    Lennard       |   45            |                   |
+| 10.A  |       |     Lennard      |               |                   |
 | ...  |       |     Lennard      |               |                   |
 | ...  |       |      Lennard     |               |                   |
 | ...  |       |     Lennard      |               |                   |
