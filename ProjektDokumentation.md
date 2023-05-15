@@ -5,7 +5,7 @@ https://jusmasterr.github.io/LA1600/
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   09.05.2023    | 0.0.1   |                                                              |
+|   09.05.2023    | 0.0.1   |       Dkumentation angefangen und Themen besprochen                                           |
 |  16.05.2023       | 0.0.2     |                                                              |
 |  23.05.2023       | 0.0.3     |                                                              |
 |  30.05.2023       | 0.0.4     |                                                              |
