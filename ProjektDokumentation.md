@@ -72,8 +72,8 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 19.A  |    06.06.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
 | 20.A  |     23.05.2023   |     Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
 | 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
-| 22.A  |  06.06.2023      |                  Timo     |   Button für Darkmode                                         |   30          |
-| 23.A  | 06.06.2023   |                  Timo     |    Button für Whitemode                                          |  30         |
+| 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   30          |
+| 23.A  | 06.06.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
 | 24.A  | 30.05.2023      |                  Timo     |   Das Fussballfeld hat eine Grundanimation                     |     90        |
 | 25.A  |   06.06.2023     |                  Cyril    |  Auf der Ereigniss Seite gibt es Texte                   | 30              |
 | 26.A  | 30.05.2023      |                   Cyril   |  Auf der Ereigniss Seite gibt es Bilder                   | 30              |
