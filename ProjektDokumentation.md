@@ -73,12 +73,12 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 19.A  |    06.06.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
 | 20.A  |     23.05.2023   |     Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
 | 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
-| 22.A  |       |                  Timo     |                                            |               |
-| 23.A  |       |                  Timo     |                                              |               |
-| 24.A  |       |                  Timo     |                                             |               |
-| 25.A  |       |                  Cyril    |                      |               |
-| 26.A  |       |                   Cyril   |                           |               |
-| 27.A  |      06.06.2023  |                   Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
+| 22.A  |  06.06.2023      |                  Timo     |   Button für Darkmode                                         |   30          |
+| 23.A  | 06.06.2023   |                  Timo     |    Button für Whitemode                                          |  30         |
+| 24.A  | 30.05.2023      |                  Timo     |   Das Fussballfeld hat eine Grundanimation                     |     90        |
+| 25.A  |   06.06.2023     |                  Cyril    |  Auf der Ereigniss Seite gibt es Texte                   | 30              |
+| 26.A  | 30.05.2023      |                   Cyril   |  Auf der Ereigniss Seite gibt es Bilder                   | 30              |
+| 27.A  |      06.06.2023  |          Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
 | 28.A  | 30.05.2023|                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
 | 29.A  |    06.06.2023    |       Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
 | 30.A  | 23.05.2023       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |  30             |
@@ -117,11 +117,11 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 19.A  |       |     Timo      |     40          |                   |
 | 20.A  |       |     Timo      |      40         |                   |
 | 21.A  |       |     Timo      |      45         |                   |
-| 22.A  |       |      Timo     |               |                   |
-| 23.A  |       |     Timo      |               |                   |
-| 24.A  |       |     Timo      |               |                   |
-| 25.A  |       |     Cyril      |               |                   |
-| 26.A  |       |     Cyril      |               |                   |
+| 22.A  |       |      Timo     |      30         |                   |
+| 23.A  |       |     Timo      |     30          |                   |
+| 24.A  |       |     Timo      |     90          |                   |
+| 25.A  |       |     Cyril      |    30           |                   |
+| 26.A  |       |     Cyril      |    30           |                   |
 | 27.A  |       |      Cyril     |  45             |                   |
 | 28.A  |       |     Cyril      |   40            |                   |
 | 29.A  |       |      Cyril     |     40          |                   |
@@ -131,7 +131,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
