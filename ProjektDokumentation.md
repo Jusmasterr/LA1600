@@ -6,8 +6,8 @@ https://jusmasterr.github.io/LA1600/
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   09.05.2023    | 0.0.1   |       Dkumentation angefangen und Themen besprochen                                           |
-|  16.05.2023       | 0.0.2     |                                                              |
-|  23.05.2023       | 0.0.3     |                                                              |
+|  16.05.2023       | 0.0.2     |   Angefangen an den ersten Arbeitspaketen zu Arbeiten                                              |
+|  23.05.2023       | 0.0.3     | Weiter an dem Projekt gearbeitet                                                             |
 |  30.05.2023       | 0.0.4     |                                                              |
 |  06.06.2023       | 0.0.5     |                                                                                                                                                                     
 |    13.05.2023      | 1.0.0   |                                                              |
@@ -62,7 +62,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 9.A  | 23.05.2023       |              Lennard     |    Schöne Gestalltung                       |    45           |
 | 10.A  | 06.06.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
 | 11.A  | 30.05.2023|     Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
-| 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse         |    40        |
+| 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse angezeigt |    40        |
 | 13.A  |   06.06.2023|            Lennard |    Es gibt Fussballfeld einen Hintergrund                                |    80         |
 | 14.A  |23.05.2023  |             Lennard  |  Auf dem Fussballfeld befinden sich Spieler in Blau                   |     50          |
 | 15.A  |     06.06.202 |                  Lennard  | Auf dem Fussballfeld befinden sich Spieler in Grün             |  40           |                                             
