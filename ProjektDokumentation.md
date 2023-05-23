@@ -64,9 +64,9 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 11.A  | 30.05.2023|     Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
 | 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse angezeigt |    40        |
 | 13.A  |   06.06.2023|            Lennard |    Es gibt Fussballfeld einen Hintergrund                                |    80         |
-| 14.A  |23.05.2023  |             Lennard  |  Auf dem Fussballfeld befinden sich Spieler in Blau                   |     50          |
-| 15.A  |     06.06.202 |                  Lennard  | Auf dem Fussballfeld befinden sich Spieler in Grün             |  40           |                                             
-| 16.A  |23.05.2023        |     Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Geld             |    45           |
+| 14.A  |23.05.2023  |             Lennard  |   Auf der Ereigniss Seite gibt es Texte                  |     30          |
+| 15.A  |     06.06.202 |                  Lennard  |  Auf der Ereigniss Seite gibt es Bilder             |  30           |                                             
+| 16.A  |23.05.2023        |     Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Gelb             |    45           |
 | 17.A  | 23.05.2023 |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |     30         |
 | 18.A  |    06.06.2023 |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |    40           |
 | 19.A  |    06.06.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
@@ -75,8 +75,8 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   30          |
 | 23.A  | 06.06.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
 | 24.A  | 30.05.2023      |                  Timo     |   Das Fussballfeld hat eine Grundanimation                     |     90        |
-| 25.A  |   06.06.2023     |                  Cyril    |  Auf der Ereigniss Seite gibt es Texte                   | 30              |
-| 26.A  | 30.05.2023      |                   Cyril   |  Auf der Ereigniss Seite gibt es Bilder                   | 30              |
+| 25.A  |   06.06.2023     |                  Cyril    |   Auf dem Fussballfeld befinden sich Spieler in Blau     | 50              |
+| 26.A  | 30.05.2023      |                   Cyril   | Auf dem Fussballfeld befinden sich Spieler in Grün          | 40              |
 | 27.A  |      06.06.2023  |          Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
 | 28.A  | 30.05.2023|                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
 | 29.A  |    06.06.2023    |       Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
@@ -108,16 +108,16 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 11.A  |       |     Lennard      |  35             |                   |
 | 12.A  |       |      Lennard     |  40             |                   |
 | 13.A  |       |     Lennard      |  80             |                   |
-| 14.A  |       |    Lennard       |   50            |                   |
-| 15.A  |       |    Lennard       |   40            |                   |
+| 14.A  |       |    Lennard       |   30            |                   |
+| 15.A  |       |    Lennard       |   30            |                   |
 | 16.A  |       |    Lennard       |   45            |                   |
 | 17.A  |       |     Timo      |     30          |                   |
 | 18.A  |       |      Timo     |    40           |                   |
 | 19.A  |       |     Timo      |     40          |                   |
 | 20.A  |       |     Timo      |      40         |                   |
 | 21.A  |       |     Timo      |      45         |                   |
-| 22.A  |       |      Timo     |      30         |                   |
-| 23.A  |       |     Timo      |     30          |                   |
+| 22.A  |       |      Timo     |      50         |                   |
+| 23.A  |       |     Timo      |     40          |                   |
 | 24.A  |       |     Timo      |     90          |                   |
 | 25.A  |       |     Cyril      |    30           |                   |
 | 26.A  |       |     Cyril      |    30           |                   |
