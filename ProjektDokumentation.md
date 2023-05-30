@@ -68,7 +68,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 10.A  | 06.06.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
 | 11.A  | 30.05.2023|     Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
 | 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse angezeigt |    40        |
-| 13.A  |   23.05.2023|            Lennard |    Es gibt Fussballfeld einen Hintergrund                                |    80         |
+| 13.A  |   23.05.2023|            Lennard |    Es gibt ein Fussballfeld als Hintergrund                         |    80         |
 | 14.A  |23.05.2023  |             Lennard  |   Auf der Ereigniss Seite gibt es Texte                  |     30          |
 | 15.A  |     06.06.202 |                  Lennard  |  Auf der Ereigniss Seite gibt es Bilder             |  30           |                                             
 | 16.A  |06.06.2023        |     Lennard  | Wenn man über ein Land mit der Maus geht wird die Flagge angezeigt           |   90      |
@@ -80,8 +80,8 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   30          |
 | 23.A  | 06.06.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
 | 24.A  | 06.06.2023      |                  Timo     |   Der Maus-Cursor ist ein Fussball                   |     90        |
-| 25.A  |   06.06.2023     |                  Cyril    |   Auf dem Fussballfeld befinden sich Spieler in Blau     | 50              |
-| 26.A  | 30.05.2023      |                   Cyril   | Auf dem Fussballfeld befinden sich Spieler in Grün          | 40              |
+| 25.A  |   06.06.2023     |                  Cyril    |  Bilder sind schwarz weiss    | 50              |
+| 26.A  | 30.05.2023      |                   Cyril   | Wenn man mit dem Maus-Cursor auf ein schwarz weisses Bild geht wird es fahrbig                  |
 | 27.A  |      06.06.2023  |          Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
 | 28.A  | 30.05.2023|                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
 | 29.A  |    06.06.2023    |       Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
