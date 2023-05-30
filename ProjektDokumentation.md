@@ -29,9 +29,9 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 3  | Kann   | funktional     |   Als Benutzer möchte ich zwischen einem hellen und dunklen Modus wählen können, um die Webseite nach meinen persönlichen Vorlieben zu gestalten.    |                            
 | 4  |         Kann          |  funktional    |    Als Benutzer möchte ich eine Auswahl zwischen zwei Sprachen haben, damit auch Personen, die kein Deutsch verstehen, die Webseite nutzen können.                                |
 | 5  |      Muss             |  funktional    |    Als Benutzer möchte ich Informationen über besondere Ereignisse und Aktionen vergangener Weltmeisterschaften erhalten, um über diese Ereignisse informiert zu sein.                             |
-| 6 |      Muss             |  funktional    | Als Benutzer möchte ich, dass ich über den Namen eines Landes hovern kann, und mir die Flagge des Landes in einem Tooltip angezeigt wird                      |
-| 7|      Muss             |  funktional    |     Als Benutzer möchte ich, dass wenn ich über das Bild auf der Start-Seite hovere, dass es sich von Schweiz-Weiss zu farbig verändert.                          |
-| 8 |      Muss             |  funktional    |  Als Benutzer möchte ich, dass mir der Maus-Cursor als Fussball angezeigt wird, wenn ich die Seite benutze                             |
+| 6 |      Muss             |  Qualität    | Als Benutzer möchte ich, dass ich über den Namen eines Landes hovern kann, und mir die Flagge des Landes in einem Tooltip angezeigt wird                      |
+| 7|      Muss             |  Qualität    |     Als Benutzer möchte ich, dass wenn ich über das Bild auf der Start-Seite hovere, dass es sich von Schweiz-Weiss zu farbig verändert.                          |
+| 8 |      Muss             |  Qualität    |  Als Benutzer möchte ich, dass mir der Maus-Cursor als Fussball angezeigt wird, wenn ich die Seite benutze                             |
 
 ### 1.3 Testfälle
 
