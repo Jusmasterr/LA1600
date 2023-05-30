@@ -29,7 +29,9 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 3  | Kann   | funktional     |   Als Benutzer möchte ich zwischen einem hellen und dunklen Modus wählen können, um die Webseite nach meinen persönlichen Vorlieben zu gestalten.    |                            
 | 4  |         Kann          |  funktional    |    Als Benutzer möchte ich eine Auswahl zwischen zwei Sprachen haben, damit auch Personen, die kein Deutsch verstehen, die Webseite nutzen können.                                |
 | 5  |      Muss             |  funktional    |    Als Benutzer möchte ich Informationen über besondere Ereignisse und Aktionen vergangener Weltmeisterschaften erhalten, um über diese Ereignisse informiert zu sein.                             |
-
+| 6 |      Muss             |  funktional    | Als Benutzer möchte ich, dass ich über den Namen eines Landes hovern kann, und mir die Flagge des Landes in einem Tooltip angezeigt wird                      |
+| 7|      Muss             |  funktional    |     Als Benutzer möchte ich, dass wenn ich über das Bild auf der Start-Seite hovere, dass es sich von Schweiz-Weiss zu farbig verändert.                          |
+| 8 |      Muss             |  funktional    |  Als Benutzer möchte ich, dass mir der Maus-Cursor als Fussball angezeigt wird, wenn ich die Seite benutze                             |
 
 ### 1.3 Testfälle
 
@@ -40,6 +42,9 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 3.1  |       Das Menü ist geöffnet      | Auswahl des Farbmoduswechsels       |   Die Webseite wechselt in den Dark- oder White-Mode.            |
 | 4.1  |   Sprachmenu ist offen           | Man wechselt die Sprache        |   Die Webseite wird in der ausgewählten Sprache angezeigt.                 |
 | 5.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
+| 6.1  |   Webseite ist geöffnet           |   Man Hovert mit der Maus über ein Land    |  Die ausgewählten Ereignisse werden angezeigt.   
+| 7.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
+| 8.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
 
 
 
