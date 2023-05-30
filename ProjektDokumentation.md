@@ -65,7 +65,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 7.A  | 23.05.2023|           Justus   |   Webseite kann auf Deutsch eingestellt werden                              |    45         |
 | 8.A  |  30.05.2023|         Justus     |   Webseite kann auf Englisch eingestellt werden                           |    60          |
 | 9.A  | 23.05.2023       |              Lennard     |    Schöne Gestalltung                       |    45           |
-| 10.A  | 06.06.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
+| 10.A  | 30.05.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
 | 11.A  | 30.05.2023|     Justus |Wenn man über Ereigiss-Button hovert wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
 | 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse angezeigt |    40        |
 | 13.A  |   23.05.2023|            Lennard |    Es gibt ein Fussballfeld als Hintergrund                         |    80         |
@@ -109,7 +109,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 7.A  |       |    Justus       |    45           |                   |
 | 8.A  |       |    Justus       |    60           |                   |
 | 9.A  | 23.05.2023       |    Lennard       |   45            |     40              |
-| 10.A  |       |     Lennard      |  30             |                   |
+| 10.A  | 30.05.2023      |     Lennard      |  30             |   35                |
 | 11.A  |     30.05.2023  |     Justus   |  35             |      10             |
 | 12.A  |       |      Lennard     |  40             |                   |
 | 13.A  |      |     Lennard      |  80             |                   |
