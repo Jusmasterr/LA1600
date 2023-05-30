@@ -66,7 +66,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 8.A  |  30.05.2023|         Justus     |   Webseite kann auf Englisch eingestellt werden                           |    60          |
 | 9.A  | 23.05.2023       |              Lennard     |    Schöne Gestalltung                       |    45           |
 | 10.A  | 06.06.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
-| 11.A  | 30.05.2023|     Lennard  |Wenn man auf Ereigiss-Button drückt wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
+| 11.A  | 30.05.2023|     Justus |Wenn man über Ereigiss-Button hovert wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
 | 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse angezeigt |    40        |
 | 13.A  |   23.05.2023|            Lennard |    Es gibt ein Fussballfeld als Hintergrund                         |    80         |
 | 14.A  |23.05.2023  |             Lennard  |   Auf der Ereigniss Seite gibt es Texte                  |     30          |
@@ -101,7 +101,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |  09.05.2023      |     Justus      |   40            |        40           |
-| 2.A  |       |      Justus     |     40          |                   |
+| 2.A  |   30.05.2023    |      Justus     |     40          |        30           |
 | 3.A  |       |      Justus     |    30           |                   |
 | 4.A  |       |     Justus      |   50            |                   |
 | 5.A  |       |     Justus      |   30            |                   |
@@ -110,7 +110,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 8.A  |       |    Justus       |    60           |                   |
 | 9.A  | 23.05.2023       |    Lennard       |   45            |     40              |
 | 10.A  |       |     Lennard      |  30             |                   |
-| 11.A  |       |     Lennard      |  35             |                   |
+| 11.A  |     30.05.2023  |     Justus   |  35             |      10             |
 | 12.A  |       |      Lennard     |  40             |                   |
 | 13.A  |      |     Lennard      |  80             |                   |
 | 14.A  | 23.05.2023       |    Lennard       |   30            |     35              |
