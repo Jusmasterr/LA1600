@@ -42,9 +42,9 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 3.1  |       Das Menü ist geöffnet      | Auswahl des Farbmoduswechsels       |   Die Webseite wechselt in den Dark- oder White-Mode.            |
 | 4.1  |   Sprachmenu ist offen           | Man wechselt die Sprache        |   Die Webseite wird in der ausgewählten Sprache angezeigt.                 |
 | 5.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
-| 6.1  |   Webseite ist geöffnet           |   Man Hovert mit der Maus über ein Land    |  Die ausgewählten Ereignisse werden angezeigt.   
-| 7.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
-| 8.1  |   Webseite ist geöffnet           |   Klicken auf den Button "Ereignisse"     |  Die ausgewählten Ereignisse werden angezeigt.   
+| 6.1  |   Webseite ist geöffnet           |   Man Hovert mit der Maus über ein Land    |  Die Flage des Landes wird angezeigt  
+| 7.1  |   Webseite ist geöffnet           | Man Hovert mit der Maus über ein Bild       |  Das Bild wird farbig
+| 8.1  |   Webseite ist geöffnet           |  Keine    |  Der Maus-Cursor ist ein Fussball  
 
 
 
