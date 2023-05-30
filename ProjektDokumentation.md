@@ -71,7 +71,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 13.A  |   23.05.2023|            Lennard |    Es gibt Fussballfeld einen Hintergrund                                |    80         |
 | 14.A  |23.05.2023  |             Lennard  |   Auf der Ereigniss Seite gibt es Texte                  |     30          |
 | 15.A  |     06.06.202 |                  Lennard  |  Auf der Ereigniss Seite gibt es Bilder             |  30           |                                             
-| 16.A  |23.05.2023        |     Lennard  | Auf dem Fussballfeld befindet sich Schiedsrichtier in Gelb             |    45           |
+| 16.A  |06.06.2023        |     Lennard  | Wenn man über ein Land mit der Maus geht wird die Flagge angezeigt           |   90      |
 | 17.A  | 23.05.2023 |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |     30         |
 | 18.A  |    06.06.2023 |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |    40           |
 | 19.A  |    06.06.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
@@ -79,7 +79,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
 | 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   30          |
 | 23.A  | 06.06.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
-| 24.A  | 30.05.2023      |                  Timo     |   Das Fussballfeld hat eine Grundanimation                     |     90        |
+| 24.A  | 06.06.2023      |                  Timo     |   Der Maus-Cursor ist ein Fussball                   |     90        |
 | 25.A  |   06.06.2023     |                  Cyril    |   Auf dem Fussballfeld befinden sich Spieler in Blau     | 50              |
 | 26.A  | 30.05.2023      |                   Cyril   | Auf dem Fussballfeld befinden sich Spieler in Grün          | 40              |
 | 27.A  |      06.06.2023  |          Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
@@ -115,7 +115,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 13.A  |      |     Lennard      |  80             |                   |
 | 14.A  | 23.05.2023       |    Lennard       |   30            |     35              |
 | 15.A  |23.05.2023        |    Lennard       |   30            |    30               |
-| 16.A  |       |    Lennard       |   45            |                   |
+| 16.A  |       |    Lennard       |   90            |                   |
 | 17.A  |       |     Timo      |     30          |                   |
 | 18.A  |       |      Timo     |    40           |                   |
 | 19.A  |       |     Timo      |     40          |                   |
