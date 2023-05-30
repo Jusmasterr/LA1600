@@ -2,120 +2,252 @@
 <html>
 
 <head>
-    <title>TOP 5 CAT</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WM Resultate</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <style>
+        /* Allgemeines Styling */
         body {
             margin: 0;
             padding: 0;
-            font-family: 'Roboto', sans-serif;
-            background-color: #28282b;
+            font-family: Arial, sans-serif;
         }
 
+        /* Header-Styling */
         header {
-            background-image: url('https://media.tenor.com/NQfq1liFH-8AAAAM/byuntear-sad.gif');
+            height: 40vh;
+            /* 40% der Bildschirmhöhe */
+            background-image: url('https://pbs.twimg.com/media/FkSAJvRWAAIgNgg?format=jpg&name=4096x4096');
             background-size: cover;
             background-position: center;
             color: white;
             text-align: center;
-            padding: 20px;
             font-size: 36px;
             font-weight: 700;
             letter-spacing: 2px;
-            height: 100vh;
-            position: relative;
             background-color: #28282b;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1;
         }
 
-        header::before {
-            content: "";
-            display: block;
+        .header-overlay {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 0, 0, 0.25);
+            background-color: rgba(40, 40, 43, 0.7);
         }
 
-        header h1 {
-            text-shadow: 5px 5px 8px #28282b;
-            margin: 0;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 72px;
-        }
-
-        nav {
-            background-color: transparent;
-            overflow: hidden;
+        .header-content {
+            position: relative;
+            z-index: 1;
             display: flex;
+            flex-direction: column;
             justify-content: center;
-            font-size: 18px;
-            font-weight: 500;
-            letter-spacing: 1px;
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            z-index: 3;
-            opacity: 1;
-            transition: opacity 0.3s ease-in-out;
+            height: 100%;
+            padding: 0 20px;
         }
 
-        nav a {
-            display: block;
-            color: #FFFFFF;
-            text-align: center;
-            padding: 16px;
-            text-decoration: none;
-            transition: all 0.3s ease-in-out;
+        /* Filter- und Ergebnisbereich */
+        .content {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-top: 40vh;
+            /* Platz oberhalb des Inhalts entsprechend der Header-Höhe */
+            padding: 50px;
         }
 
-        nav a:hover {
-            background-color: #28282b;
-            color: #FFFFFF;
+        .filters {
+            width: 200px;
+            position: sticky;
+            top: 50px;
+            float: right;
+            margin-right: 20px;
+            box-sizing: border-box;
         }
 
-        .active {
-            background-color: #ff9100;
-            color: white;
+
+        .results {
+            flex-grow: 1;
+            margin-left: 20px;
         }
 
-        main {
-            margin-top: 100px;
-            color: white;
-            text-align: center;
+        /* Ergebnis-Tabelle */
+        .results table {
+            width: 100%;
+            border-collapse: collapse;
+        }
 
-            margin-bottom: 100px;
-            color: white;
-            text-align: center;
+        .results th,
+        .results td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ccc;
         }
     </style>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-
 </head>
 
 <body>
     <header>
-        <nav>
-            <a class="active" href="#home">Home</a>
-            <a href="About.html">About</a>
-            <a href="breeds.html">Breeds</a>
-            <a href="#gallery">Gallery</a>
-            <a href="#contact">Contact</a>
-        </nav>
-        <h1>TOP CATS</h1>
+        <div class="header-overlay"></div>
+        <div class="header-content">
+            <h1>View the Results of the last FIFA World Cups</h1>
+        </div>
     </header>
 
-    <main>
-        <h2>Welcome to top Cats</h2>
-        <p>Top Cats from all around the world in one place.</p>
-    </main>
+    <div class="content">
+        <div class="filters">
+            <label for="country-filter">Nach Land filtern:</label>
+            <select id="country-filter">
+                <option value="">Alle</option>
+                <option value="Deutschland">Deutschland</option>
+                <option value="Brasilien">Brasilien</option>
+                <option value="Argentinien">Argentinien</option>
+                <!-- Weitere Optionen hinzufügen -->
+            </select>
 
+            <label for="goal-diff-filter">Nach Tordifferenz filtern:</label>
+            <select id="goal-diff-filter">
+                <option value="">Alle</option>
+                <option value="positive">Positive Tordifferenz</option <option value="negative">Negative Tordifferenz
+                </option>
+            </select>
+
+            <label for="winner-filter">Nach Turniersieger filtern:</label>
+            <select id="winner-filter">
+                <option value="">Alle</option>
+                <option value="Deutschland">Deutschland</option>
+                <option value="Brasilien">Brasilien</option>
+                <option value="Argentinien">Argentinien</option>
+                <!-- Weitere Optionen hinzufügen -->
+            </select>
+
+            <label for="group-filter">Nach Gruppen filtern:</label>
+            <select id="group-filter">
+                <option value="">Alle</option>
+                <option value="Gruppe A">Gruppe A</option>
+                <option value="Gruppe B">Gruppe B</option>
+                <option value="Gruppe C">Gruppe C</option>
+                <!-- Weitere Optionen hinzufügen -->
+            </select>
+
+            <label for="eliminated-filter">Runden filtern:</label>
+            <select id="eliminated-filter">
+                <option value="">Alle</option>
+                <option value="Vorrunde">Vorrunde</option>
+                <option value="Achtelfinale">Achtelfinale</option>
+                <option value="Viertelfinale">Viertelfinale</option>
+                <!-- Weitere Optionen hinzufügen -->
+            </select>
+        </div>
+
+        <div class="results">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Jahr</th>
+                        <th>Land</th>
+                        <th>Tordifferenz</th>
+                        <th>Turniersieger</th>
+                        <th>Gruppe</th>
+                        <th>Runde</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>2018</td>
+                        <td>Deutschland</td>
+                        <td>+5</td>
+                        <td>Frankreich</td>
+                        <td>Gruppe F</td>
+                        <td>Achtelfinale</td>
+                    </tr>
+                    <tr>
+                        <td>2014</td>
+                        <td>Deutschland</td>
+                        <td>+18</td>
+                        <td>Deutschland</td>
+                        <td>Gruppe G</td>
+                        <td>Finale</td>
+                    </tr>
+                    <tr>
+                        <td>2014</td>
+                        <td>Brasilien</td>
+                        <td>-3</td>
+                        <td>Deutschland</td>
+                        <td>Gruppe A</td>
+                        <td>Halbfinale</td>
+                    </tr>
+                    <!-- Weitere Tabellenzeilen hinzufügen -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // JavaScript-Code zur Filterung der Ergebnisse
+        document.addEventListener('DOMContentLoaded', function () {
+            const countryFilter = document.getElementById('country-filter');
+            const goalDiffFilter = document.getElementById('goal-diff-filter');
+            const winnerFilter = document.getElementById('winner-filter');
+            const groupFilter = document.getElementById('group-filter');
+            const eliminatedFilter = document.getElementById('eliminated-filter');
+
+            const rows = document.querySelectorAll('.results tbody tr');
+
+            function filterResults() {
+                const selectedCountry = countryFilter.value;
+                const selectedGoalDiff = goalDiffFilter.value;
+                const selectedWinner = winnerFilter.value;
+                const selectedGroup = groupFilter.value;
+                const selectedEliminated = eliminatedFilter.value;
+
+                rows.forEach(function (row) {
+                    const country = row.cells[1].textContent;
+                    const goalDiff = parseInt(row.cells[2].textContent);
+                    const winner = row.cells[3].textContent;
+                    const group = row.cells[4].textContent;
+                    const eliminated = row.cells[5].textContent;
+
+                    row.style.display = 'table-row';
+
+                    if (selectedCountry && country !== selectedCountry) {
+                        row.style.display = 'none';
+                    }
+
+                    if (selectedGoalDiff === 'positive' && goalDiff <= 0) {
+                        row.style.display = 'none';
+                    }
+
+                    if (selectedGoalDiff === 'negative' && goalDiff >= 0) {
+                        row.style.display = 'none';
+                    }
+
+                    if (selectedWinner && winner !== selectedWinner) {
+                        row.style.display = 'none';
+                    }
+
+                    if (selectedGroup && group !== selectedGroup) {
+                        row.style.display = 'none';
+                    }
+
+                    if (selectedEliminated && eliminated !== selectedEliminated) {
+                        row.style.display = 'none';
+                    }
+                });
+            }
+
+            countryFilter.addEventListener('change', filterResults);
+            goalDiffFilter.addEventListener('change', filterResults);
+            winnerFilter.addEventListener('change', filterResults);
+            groupFilter.addEventListener('change', filterResults);
+            eliminatedFilter.addEventListener('change', filterResults);
+        });
+    </script>
 </body>
 
 </html>
