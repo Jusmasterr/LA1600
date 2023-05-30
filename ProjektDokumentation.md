@@ -50,7 +50,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+![image](https://github.com/Jusmasterr/LA1600/assets/110891995/6f7562d8-6e6c-44a7-a2bb-712899acf5f1)
 
 ## 2 Planen
 
