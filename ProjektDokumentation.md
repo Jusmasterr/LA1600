@@ -119,8 +119,8 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 17.A  |       |     Timo      |     30          |                   |
 | 18.A  |       |      Timo     |    40           |                   |
 | 19.A  |   30.05.2023    |     Timo      |     40          |   50                |
-| 20.A  |       |     Timo      |      40         |                   |
-| 21.A  |       |     Timo      |      45         |                   |
+| 20.A  | 23.05.2023       |     Timo      |      40         |     50              |
+| 21.A  |  23.05.2023      |     Timo      |      45         |     40              |
 | 22.A  |       |      Timo     |      50         |                   |
 | 23.A  | 23.05.2023      |     Timo      |     40          |    50               |
 | 24.A  |       |     Timo      |     90          |                   |
