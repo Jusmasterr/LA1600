@@ -74,11 +74,11 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 16.A  |06.06.2023        |     Lennard  | Wenn man über ein Land mit der Maus geht wird die Flagge angezeigt           |   90      |
 | 17.A  | 23.05.2023 |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |     30         |
 | 18.A  |    06.06.2023 |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |    40           |
-| 19.A  |    06.06.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
+| 19.A  |    30.05.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
 | 20.A  |     23.05.2023   |     Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
 | 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
 | 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   30          |
-| 23.A  | 06.06.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
+| 23.A  | 23.05.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
 | 24.A  | 06.06.2023      |                  Timo     |   Der Maus-Cursor ist ein Fussball                   |     90        |
 | 25.A  |   06.06.2023     |                  Cyril    |  Bilder sind schwarz weiss    | 50              |
 | 26.A  | 30.05.2023      |                   Cyril   | Wenn man mit dem Maus-Cursor auf ein schwarz weisses Bild geht wird es fahrbig                  |
@@ -118,11 +118,11 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 16.A  |       |    Lennard       |   90            |                   |
 | 17.A  |       |     Timo      |     30          |                   |
 | 18.A  |       |      Timo     |    40           |                   |
-| 19.A  |       |     Timo      |     40          |                   |
+| 19.A  |   30.05.2023    |     Timo      |     40          |   50                |
 | 20.A  |       |     Timo      |      40         |                   |
 | 21.A  |       |     Timo      |      45         |                   |
 | 22.A  |       |      Timo     |      50         |                   |
-| 23.A  |       |     Timo      |     40          |                   |
+| 23.A  | 23.05.2023      |     Timo      |     40          |    50               |
 | 24.A  |       |     Timo      |     90          |                   |
 | 25.A  |       |     Cyril      |    30           |                   |
 | 26.A  |       |     Cyril      |    30           |                   |
