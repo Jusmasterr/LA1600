@@ -126,11 +126,11 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 24.A  |       |     Timo      |     90          |                   |
 | 25.A  |       |     Cyril      |    30           |                   |
 | 26.A  |       |     Cyril      |    30           |                   |
-| 27.A  |       |      Cyril     |  45             |                   |
-| 28.A  |       |     Cyril      |   40            |                   |
-| 29.A  |       |      Cyril     |     40          |                   |
-| 30.A  |       |     Cyril      |     30          |                   |
-| 31.A  |       |     Cyril      |     40          |                   |
+| 27.A  |   23.05.2023    |      Cyril     |  45             |    40               |
+| 28.A  |   30.05.2023     |     Cyril      |   40            |      50             |
+| 29.A  |   23.05.2023    |      Cyril     |     40          |        35           |
+| 30.A  |   30.05.2023     |     Cyril      |     30          |      20             |
+| 31.A  |   23.05.2023    |     Cyril      |     40          |       35            |
 | 32.A  |  30.05.2023     |      Cyril     |     30          |        35           |
 
 
