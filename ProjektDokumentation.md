@@ -81,7 +81,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 23.A  | 23.05.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
 | 24.A  | 06.06.2023      |                  Timo     |   Der Maus-Cursor ist ein Fussball                   |     90        |
 | 25.A  |   06.06.2023     |                  Cyril    |  Bilder sind schwarz weiss    | 50              |
-| 26.A  | 30.05.2023      |                   Cyril   | Wenn man mit dem Maus-Cursor auf ein schwarz weisses Bild geht wird es fahrbig            |45
+| 26.A  | 30.05.2023      |                   Cyril   | Wenn man mit dem Maus-Cursor auf ein schwarz weisses Bild geht wird es fahrbig            |30
 | 27.A  |      06.06.2023  |          Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
 | 28.A  | 30.05.2023|                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
 | 29.A  |    06.06.2023    |       Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
