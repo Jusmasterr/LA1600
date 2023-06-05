@@ -85,7 +85,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 27.A  |      06.06.2023  |          Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
 | 28.A  | 30.05.2023|                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
 | 29.A  |    06.06.2023    |       Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
-| 30.A  | 23.05.2023       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |  30             |
+| 30.A  | 30.05.2023       |                   Cyril   |Der Filter kann nach Gruppen filtern                    |  30             |
 | 31.A  |   06.06.2023     |           Cyril  |  Der Filter kann runde suchen wo Rausgeflogen                |    40           |
 | 32.A  |  30.05.2023     |                   Cyril   |  Webseiten Titel mit Farbe etc. ertellen                         |    30           |
 Total: 
@@ -110,7 +110,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 8.A  |       |    Justus       |    60           |                   |
 | 9.A  | 23.05.2023       |    Lennard       |   45            |     40              |
 | 10.A  | 30.05.2023      |     Lennard      |  30             |   35                |
-| 11.A  |     30.05.2023  |     Justus   |  35             |      10             |
+| 11.A  |     30.05.2023  |     Justus   |  35             |      30             |
 | 12.A  |       |      Lennard     |  40             |                   |
 | 13.A  |      |     Lennard      |  80             |                   |
 | 14.A  | 23.05.2023       |    Lennard       |   30            |     35              |
@@ -131,7 +131,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 29.A  |       |      Cyril     |     40          |                   |
 | 30.A  |       |     Cyril      |     30          |                   |
 | 31.A  |       |     Cyril      |     40          |                   |
-| 32.A  |       |      Cyril     |     30          |                   |
+| 32.A  |  30.05.2023     |      Cyril     |     30          |        35           |
 
 
 
