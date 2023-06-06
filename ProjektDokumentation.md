@@ -69,7 +69,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 10.A  | 30.05.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
 | 11.A  | 30.05.2023|     Lennard |Wenn man über Ereigiss-Button hovert wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
 | 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse angezeigt |    40        |
-| 13.A  |   23.05.2023|            Lennard |    Es gibt einen Fussballbutton der wie ein Homebutton funktioniert                   |    80         |
+| 13.A  |   06.06.2023|            Lennard |    Es gibt einen Fussballbutton der wie ein Homebutton funktioniert                   |    80         |
 | 14.A  |23.05.2023  |             Lennard  |   Auf der Ereigniss Seite gibt es Texte                  |     30          |
 | 15.A  |     06.06.202 |                  Lennard  |  Auf der Ereigniss Seite gibt es Bilder             |  30           |                                             
 | 16.A  |06.06.2023        |     Lennard  | Wenn man über ein Land mit der Maus geht wird die Flagge angezeigt           |   90      |
@@ -113,7 +113,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 10.A  | 30.05.2023      |     Lennard      |  30             |   35                |
 | 11.A  |     30.05.2023  |  Lennard      |  35             |      30             |
 | 12.A  |   23.05.2023    |      Lennard     |  40             |     45              |
-| 13.A  |      |     Lennard      |  80             |                   |
+| 13.A  |  06.06.2023    |     Lennard      |  80             |         75          |
 | 14.A  | 23.05.2023       |    Lennard       |   30            |     35              |
 | 15.A  |23.05.2023        |    Lennard       |   30            |    30               |
 | 16.A  |       |    Lennard       |   90            |                   |
