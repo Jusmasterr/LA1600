@@ -70,20 +70,24 @@ body {
     text-align: center;
     position: relative;
     top: -5px;
+    z-index:999;
 }
 
 .top-bar li {
     display: inline-block;
     margin-right: 20px;
+    z-index:999;
 }
 
 .top-bar li:last-child {
     margin-right: 0;
+    z-index:999;
 }
 
 .top-bar a {
     color: #fff;
     text-decoration: none;
+    z-index:999;
 }
 
 .content {
