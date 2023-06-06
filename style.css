@@ -191,3 +191,14 @@ h1{
     padding: 10px 20px;
     border-radius: 50px;
 }
+
+.language-select {
+    position: relative;
+    top: -5px;
+    float: right;
+    right: 15px;
+}
+
+.Icon {
+    float: left;
+}
