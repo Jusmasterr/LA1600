@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    position: relative;
+    position: fixed;
     background-image: url('https://pbs.twimg.com/media/FkSAJvRWAAIgNgg?format=jpg&name=4096x4096');
     background-size: cover;
     background-position: center;
