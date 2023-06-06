@@ -106,6 +106,7 @@ body {
 
 .HomeBtn:hover {
     background-color: rgba(128, 128, 128, 0.46);
+    border-radius:5px;
 }
 
 .dropItem {
@@ -116,6 +117,7 @@ body {
 
 .dropItem:hover {
     background-color: rgba(128, 128, 128, 0.46);
+    border-radius:5px;
 }
 
 .dropdownContent {
@@ -135,6 +137,7 @@ body {
 
 .dropdown:hover .dropdownContent {
     display: block;
+    border-radius:5px;
 }
 
 footer {
