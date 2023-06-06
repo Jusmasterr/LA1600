@@ -76,7 +76,7 @@ body {
 .top-bar li {
     display: inline-block;
     margin-right: 20px;
-    z-index:999;
+    z-index:1000;
 }
 
 .top-bar li:last-child {
