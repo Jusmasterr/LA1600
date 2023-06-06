@@ -60,6 +60,7 @@ body {
     background-color: #333;
     color: #fff;
     padding: 10px;
+    z-index:999;
 }
 
 .top-bar ul {
@@ -99,7 +100,6 @@ body {
 .top-bar {
     background-color: rgba(0, 0, 0, 0.7);
     padding: 10px;
-    z-index:999;
 }
 
 .MenuIcon {
