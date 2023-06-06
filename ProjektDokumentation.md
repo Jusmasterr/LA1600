@@ -32,6 +32,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 6 |      Muss             |  Qualität    | Als Benutzer möchte ich, dass ich über den Namen eines Landes hovern kann, und mir die Flagge des Landes in einem Tooltip angezeigt wird                      |
 | 7|      Muss             |  Qualität    |     Als Benutzer möchte ich, dass wenn ich über das Bild auf der Start-Seite hovere, dass es sich von Schweiz-Weiss zu farbig verändert.                          |
 | 8 |      Muss             |  Qualität    |  Als Benutzer möchte ich, dass mir der Maus-Cursor als Fussball angezeigt wird, wenn ich die Seite benutze                             |
+| 9 |      Muss             |  Funktionl    |  Als Benutzer möchte ich das ich die Ergebnisse Filtern kann, damit ich mich besser zurecht finden kann                      |
 
 ### 1.3 Testfälle
 
@@ -45,7 +46,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 6.1  |   Webseite ist geöffnet           |   Man Hovert mit der Maus über ein Land    |  Die Flage des Landes wird angezeigt  
 | 7.1  |   Webseite ist geöffnet           | Man Hovert mit der Maus über ein Bild       |  Das Bild wird farbig
 | 8.1  |   Webseite ist geöffnet           |  Keine    |  Der Maus-Cursor ist ein Fussball  
-
+| 9.1  |   Webseite ist geöffnet           |  Es wird gefiltert    |  Das wo herausgefiltert wurde wird angezeigt  
 
 
 ### 1.4 Diagramme
