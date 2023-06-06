@@ -77,7 +77,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 19.A  |    30.05.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
 | 20.A  |     23.05.2023   |     Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
 | 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
-| 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   30          |
+| 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   50          |
 | 23.A  | 23.05.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
 | 24.A  | 06.06.2023      |                  Cyril     |   Der Maus-Cursor ist ein Fussball                   |     90        |
 | 25.A  |   06.06.2023     |                  Cyril    |  Bilder sind schwarz weiss    | 50              |
@@ -121,7 +121,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 19.A  |   30.05.2023    |     Timo      |     40          |   50                |
 | 20.A  | 23.05.2023       |     Timo      |      40         |     50              |
 | 21.A  |  23.05.2023      |     Timo      |      45         |     40              |
-| 22.A  |       |      Timo     |      50         |                   |
+| 22.A  |   06.06.2023    |      Timo     |      50         |   60                |
 | 23.A  | 23.05.2023      |     Timo      |     40          |    50               |
 | 24.A  |       |       Cyril    |     90          |                   |
 | 25.A  |       |     Cyril      |    30           |                   |
