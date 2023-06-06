@@ -164,3 +164,11 @@ section {
 .Itembox:hover {
     background-color: #787878be;
 }
+
+/* Dark theme styles */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #333333;
+        color: #ffffff;
+    }
+}
