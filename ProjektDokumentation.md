@@ -111,7 +111,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 9.A  | 23.05.2023       |    Lennard       |   45            |     40              |
 | 10.A  | 30.05.2023      |     Lennard      |  30             |   35                |
 | 11.A  |     30.05.2023  |  Lennard      |  35             |      30             |
-| 12.A  |       |      Lennard     |  40             |                   |
+| 12.A  |   23.05.2023    |      Lennard     |  40             |     45              |
 | 13.A  |      |     Lennard      |  80             |                   |
 | 14.A  | 23.05.2023       |    Lennard       |   30            |     35              |
 | 15.A  |23.05.2023        |    Lennard       |   30            |    30               |
