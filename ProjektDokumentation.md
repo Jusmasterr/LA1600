@@ -68,12 +68,12 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 10.A  | 30.05.2023       |                  Lennard |     Button für Ereignisse                                   |      30         |
 | 11.A  | 30.05.2023|     Lennard |Wenn man über Ereigiss-Button hovert wird ein Jahr auswahl Dropdown menu aufgemacht|  35   |
 | 12.A  | 23.05.2023|           Lennard   |Wenn man ein Jahr ausgewählt hat, werden zu diesem Jahr ereignisse angezeigt |    40        |
-| 13.A  |   23.05.2023|            Lennard |    Es gibt ein Fussballfeld als Hintergrund                         |    80         |
+| 13.A  |   23.05.2023|            Lennard |    Es gibt einen Fussballbutton der wie ein Homebutton funktioniert                   |    80         |
 | 14.A  |23.05.2023  |             Lennard  |   Auf der Ereigniss Seite gibt es Texte                  |     30          |
 | 15.A  |     06.06.202 |                  Lennard  |  Auf der Ereigniss Seite gibt es Bilder             |  30           |                                             
 | 16.A  |06.06.2023        |     Lennard  | Wenn man über ein Land mit der Maus geht wird die Flagge angezeigt           |   90      |
-| 17.A  | 23.05.2023 |                  Timo     |   Auf dem Fussballfeld befindet sich ein Ball                     |     30         |
-| 18.A  |    06.06.2023 |                  Timo     |  Auf dem Spielfeld befinden sich Linien                   |    40           |
+| 17.A  | 23.05.2023 |                  Timo     |   Es gibt die Ergebnisse aller Gruppenphasen Spiele der fünf letzten Weltmeisterschaften                     |     30         |
+| 18.A  |    06.06.2023 |                  Timo     |   Es gibt die Ergebnisse aller KO-Spiele der fünf letzten Weltmeisterschaften                  |    40           |
 | 19.A  |    30.05.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
 | 20.A  |     23.05.2023   |     Timo    |      Es gibt verschiedene Schriftarten auf der Website                    |    40        |
 | 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
