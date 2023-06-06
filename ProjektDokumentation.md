@@ -9,7 +9,7 @@ https://jusmasterr.github.io/LA1600/
 |  16.05.2023       | 0.0.2     |   Angefangen an den ersten Arbeitspaketen zu Arbeiten                                              |
 |  23.05.2023       | 0.0.3     | Weiter an dem Projekt gearbeitet, Filter angefangen, ersten Teil der Seite erstellt und Informationen (Text, Bilder) gesammelt.                                                            |
 |  30.05.2023       | 0.0.4     | Zweite Seite für Auswahl der Resultate, am Filter gearbeitet und einige der Hinterseiten für die Ereignisse                      |
-|  06.06.2023       | 0.0.5     |                                                                                                                                                                     
+|  06.06.2023       | 0.0.5     | Schaltfläche zum Ändern der Sprache, Icon mit Link zum Homescreen, Bilder und Text eingefügt, allgemeine kleine Designveränderungen                                                                                                                                                                   
 |    13.05.2023      | 1.0.0   |                                                              |
 
 ## 1 Informieren
