@@ -59,7 +59,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 1.A  |  09.05.23     |     Justus  |          Menubar für "Resultate-button"          |      40         |
 | 2.A  |  16.05.23     |    Justus  |           Dropdownmenu zur Auswahl des Jahres der Meisterschaft       |      40         |
 | 3.A  |     06.06.2023   |              Justus |  Farbmenu erstellen                            |     30        |
-| 4.A  | 23.05.2023       |                Justus |  Hintergrund in Whitemode ertellen           |     50        |
+| 4.A  | 30.05.2023       |                Justus |  Hintergrund in Whitemode ertellen           |     50        |
 | 5.A  |   30.05.2023          |               Justus  | Hintergrund in Darkmode ertellen             |    30         |
 | 6.A  |   06.06.2023  |                Justus  |   Menu für Sprachenauswahl                                          |   35          |
 | 7.A  | 23.05.2023|           Justus   |   Webseite kann auf Deutsch eingestellt werden                              |    45         |
@@ -102,10 +102,10 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |  09.05.2023      |     Justus      |   40            |        40           |
 | 2.A  |   30.05.2023    |      Justus     |     40          |        30           |
-| 3.A  |       |      Justus     |    30           |                   |
-| 4.A  |       |     Justus      |   50            |                   |
-| 5.A  |       |     Justus      |   30            |                   |
-| 6.A  | 06.06.23      |    Justus       |   35            |    15               |
+| 3.A  |   06.06.2023      |      Justus     |    30           |    40               |
+| 4.A  |  30.05.2023       |     Justus      |   50            |    60               |
+| 5.A  |  30.05.2023       |     Justus      |   30            |    40               |
+| 6.A  | 06.06.23      |    Justus       |   35            |    25              |
 | 7.A  |   -    |    Justus       |    45           |         -          |
 | 8.A  |    -   |    Justus       |    60           |          -         |
 | 9.A  | 23.05.2023       |    Lennard       |   45            |     40              |
