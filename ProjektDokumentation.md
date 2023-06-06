@@ -105,9 +105,9 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 3.A  |       |      Justus     |    30           |                   |
 | 4.A  |       |     Justus      |   50            |                   |
 | 5.A  |       |     Justus      |   30            |                   |
-| 6.A  |       |    Justus       |   35            |                   |
-| 7.A  |       |    Justus       |    45           |                   |
-| 8.A  |       |    Justus       |    60           |                   |
+| 6.A  | 06.06.23      |    Justus       |   35            |    15               |
+| 7.A  |   -    |    Justus       |    45           |         -          |
+| 8.A  |    -   |    Justus       |    60           |          -         |
 | 9.A  | 23.05.2023       |    Lennard       |   45            |     40              |
 | 10.A  | 30.05.2023      |     Lennard      |  30             |   35                |
 | 11.A  |     30.05.2023  |  Lennard      |  35             |      30             |
