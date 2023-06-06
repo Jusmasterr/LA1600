@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    position: fixed;
+    position: relative;
     background-image: url('https://pbs.twimg.com/media/FkSAJvRWAAIgNgg?format=jpg&name=4096x4096');
     background-size: cover;
     background-position: center;
@@ -16,6 +16,7 @@ header {
     letter-spacing: 2px;
     background-color: #28282b;
     height: 100vh;
+    z-index:102;
 }
 
 .header-overlay {
@@ -25,7 +26,6 @@ header {
     width: 100%;
     height: 100%;
     background-color: rgba(40, 40, 43, 0.7);
-    /* Adjust the opacity value (0.7) as desired */
 }
 
 .header-content {
