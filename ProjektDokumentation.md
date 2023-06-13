@@ -144,10 +144,18 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 13.06.2023      | Funktioniert         |   Lennard     |
+| 2.1  | 13.06.2023      |    Funktioniert      |    Lennard    |
+| 3.1  | 13.06.2023      |   Funktioniert       |  Lennard      |
+| 4.1  | 13.06.2023      |  Funktioniert nicht        |  Lennard      |
+| 5.1  | 13.06.2023      | Funktioniert         |   Lennard     |
+| 6.1  | 13.06.2023      |  -        |   Lennard     |
+| 7.1  | 13.06.2023      |  -        |   Lennard     |
+| 8.1  | 13.06.2023      | Funktioniert         |    Lennard    |
+| 9.1  | 13.06.2023      | Funktioniert         |    Lennard    |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+`Fazit:` Die wichtigsten Teile der Webseite haben wir erfolgreich gemeistert, sodass unsere Webseite benutzbar ist, Informationen liefert und einige spezielle Zusatzfunktionen aufweist. Leider konnten wir aufgrund des knappen Zeitrahmens nicht alle unsere Wünsche für die Webseite erfüllen.
+
 
 ### 5.2 Exploratives Testen
 
