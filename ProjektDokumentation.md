@@ -10,7 +10,7 @@ https://jusmasterr.github.io/LA1600/
 |  23.05.2023       | 0.0.3     | Weiter an dem Projekt gearbeitet, Filter angefangen, ersten Teil der Seite erstellt und Informationen (Text, Bilder) gesammelt.                                                            |
 |  30.05.2023       | 0.0.4     | Zweite Seite für Auswahl der Resultate, am Filter gearbeitet und einige der Hinterseiten für die Ereignisse                      |
 |  06.06.2023       | 0.0.5     | Schaltfläche zum Ändern der Sprache, Icon mit Link zum Homescreen, Bilder und Text eingefügt, allgemeine kleine Designveränderungen                                                                                                                                                                   
-|    13.05.2023      | 1.0.0   |                                                              |
+|    13.05.2023      | 1.0.0   |        Die letzten Arbeitspakete abgeschlossen und an der Präsentation gearbeited                                                      |
 
 ## 1 Informieren
 
@@ -72,7 +72,7 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 13.A  |   06.06.2023|            Lennard |    Es gibt einen Fussballbutton der wie ein Homebutton funktioniert                   |    80         |
 | 14.A  |23.05.2023  |             Lennard  |   Auf der Ereigniss Seite gibt es Texte                  |     30          |
 | 15.A  |     06.06.202 |                  Lennard  |  Auf der Ereigniss Seite gibt es Bilder             |  30           |                                             
-| 16.A  |06.06.2023        |     Lennard  | Wenn man über ein Land mit der Maus geht wird die Flagge angezeigt           |   90      |
+| 16.A  |13.06.2023        |     Lennard  | Wenn man über ein Land mit der Maus geht wird die Flagge angezeigt           |   90      |
 | 17.A  | 06.06.2023 |                  Timo     |   Es gibt die Ergebnisse aller Gruppenphasen Spiele der fünf letzten Weltmeisterschaften                     |     40         |
 | 18.A  |    06.06.2023 |                  Timo     |   Es gibt die Ergebnisse aller KO-Spiele der fünf letzten Weltmeisterschaften                  |    40           |
 | 19.A  |    30.05.2023 |          Timo    |    Grunddesign der Webseite erstellen                                     |  40          |
@@ -80,9 +80,9 @@ Unser aktuelles Projekt besteht darin, in einer neuen Arbeitsgruppe die Erstellu
 | 21.A  |  23.05.2023 |     Timo     | Es gibt einen Button für den Filter                           | 45              |
 | 22.A  |  06.06.2023      |                  Timo     |   Farbenpallete passt sich an Systhempreferenz an            |   50          |
 | 23.A  | 23.05.2023   |                  Timo     |    Es sind Farben auf unserer Webseite eingebaut                   |  30         |
-| 24.A  | 06.06.2023      |                  Timo     |   Der Maus-Cursor ist ein Fussball                   |     90        |
-| 25.A  |   06.06.2023     |                  Cyril    |  Bilder sind schwarz weiss    | 50              |
-| 26.A  | 30.05.2023      |                   Cyril   | Wenn man mit dem Maus-Cursor auf ein schwarz weisses Bild geht wird es farbig            |30
+| 24.A  | 13.06.2023      |                  Timo     |   Der Maus-Cursor ist ein Fussball                   |     90        |
+| 25.A  |   13.06.2023     |                  Cyril    |  Bilder sind schwarz weiss    | 50              |
+| 26.A  | 13.06.2023      |                   Cyril   | Wenn man mit dem Maus-Cursor auf ein schwarz weisses Bild geht wird es farbig            |30
 | 27.A  |      06.06.2023  |          Cyril   |   Der Filter kann nach Tordifferenz filtern                       |     45          |
 | 28.A  | 30.05.2023|                   Cyril   |  Der Filter kann nach Land filtern                               |    40           |
 | 29.A  |    06.06.2023    |       Cyril   |     Der Filter kann nach Sieger des Turniers filtern                   |   40            |
@@ -116,7 +116,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 13.A  |  06.06.2023    |     Lennard      |  80             |         75          |
 | 14.A  | 23.05.2023       |    Lennard       |   30            |     35              |
 | 15.A  |23.05.2023        |    Lennard       |   30            |    30               |
-| 16.A  |       |    Lennard       |   90            |                   |
+| 16.A  | 13.06.2023       |    Lennard       |   90            |  Konnte nicht mehr gemacht werden                 |
 | 17.A  |    06.06.2023    |     Timo      |     40          |       40            |
 | 18.A  |  06.06.2023      |      Timo     |    40           |      40             |
 | 19.A  |   30.05.2023    |     Timo      |     40          |   50                |
@@ -124,9 +124,9 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 21.A  |  23.05.2023      |     Timo      |      45         |     40              |
 | 22.A  |   06.06.2023    |      Timo     |      50         |   60                |
 | 23.A  | 23.05.2023      |     Timo      |     40          |    50               |
-| 24.A  |       |       Timo    |     90          |                   |
-| 25.A  |       |     Cyril      |    30           |                   |
-| 26.A  |       |     Cyril      |    30           |                   |
+| 24.A  |  13.06.2023      |       Timo    |     90          |    Konnte nicht mehr gemacht werden                  |
+| 25.A  |  13.06.2023      |     Cyril      |    30           |   Konnte nicht mehr gemacht werden                   |
+| 26.A  |  13.06.2023      |     Cyril      |    30           |   Konnte nicht mehr gemacht werden                   |
 | 27.A  |   23.05.2023    |      Cyril     |  45             |    40               |
 | 28.A  |   30.05.2023     |     Cyril      |   40            |      50             |
 | 29.A  |   23.05.2023    |      Cyril     |     40          |        35           |
@@ -168,4 +168,4 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
