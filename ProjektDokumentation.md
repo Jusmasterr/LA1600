@@ -107,8 +107,8 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 4.A  |  30.05.2023       |     Justus      |   50            |    60               |
 | 5.A  |  30.05.2023       |     Justus      |   30            |    40               |
 | 6.A  | 06.06.23      |    Justus       |   35            |    25              |
-| 7.A  |   -    |    Justus       |    45           |         -          |
-| 8.A  |    -   |    Justus       |    60           |          -         |
+| 7.A  |   23.05.2023    |    Justus       |    45           |         Konnte nicht umgesetzt werden          |
+| 8.A  | 30.05.2023      |    Justus       |    60           |           Konnte nicht umgesetzt werden          |
 | 9.A  | 23.05.2023       |    Lennard       |   45            |     40              |
 | 10.A  | 30.05.2023      |     Lennard      |  30             |   35                |
 | 11.A  |     30.05.2023  |  Lennard      |  35             |      30             |
@@ -116,7 +116,7 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 13.A  |  06.06.2023    |     Lennard      |  80             |         75          |
 | 14.A  | 23.05.2023       |    Lennard       |   30            |     35              |
 | 15.A  |23.05.2023        |    Lennard       |   30            |    30               |
-| 16.A  | 13.06.2023       |    Lennard       |   90            |  Konnte nicht mehr gemacht werden                 |
+| 16.A  | 13.06.2023       |    Lennard       |   90            |  Konnte nicht mehr gemacht werden                  |
 | 17.A  |    06.06.2023    |     Timo      |     40          |       40            |
 | 18.A  |  06.06.2023      |      Timo     |    40           |      40             |
 | 19.A  |   30.05.2023    |     Timo      |     40          |   50                |
