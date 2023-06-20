@@ -149,22 +149,14 @@ Nach sorgfältiger Abwägung haben wir uns dafür entschieden, einen Dark Mode i
 | 3.1  | 13.06.2023      |   Funktioniert       |  Lennard      |
 | 4.1  | 13.06.2023      |  Funktioniert nicht        |  Lennard      |
 | 5.1  | 13.06.2023      | Funktioniert         |   Lennard     |
-| 6.1  | 13.06.2023      |  -        |   Lennard     |
-| 7.1  | 13.06.2023      |  -        |   Lennard     |
+| 6.1  | 13.06.2023      |  Funktioniert nicht      |   Lennard     |
+| 7.1  | 13.06.2023      |  Funktioniert nicht        |   Lennard     |
 | 8.1  | 13.06.2023      | Funktioniert         |    Lennard    |
 | 9.1  | 13.06.2023      | Funktioniert         |    Lennard    |
 
 `Fazit:` Die wichtigsten Teile der Webseite haben wir erfolgreich gemeistert, sodass unsere Webseite benutzbar ist, Informationen liefert und einige spezielle Zusatzfunktionen aufweist. Leider konnten wir aufgrund des knappen Zeitrahmens nicht alle unsere Wünsche für die Webseite erfüllen.
 
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
