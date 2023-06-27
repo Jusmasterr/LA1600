@@ -6,15 +6,15 @@ Gruppenmitglieder: Cyril Lutziger, Lennard Buehler, Timo Goedertier
 
 ## Einleitung
 
-In unserem Projekt geht es um eine Webseite, auf der man Resultate der Fussball WM anschauen kann.
+Wir haben mit HTML und CSS eine Webseite erstellt, auf der man Resultate der letzten Fussball WMs anschauen kann.
 
-## Was habe ich gelernt?
+## Was haben wir gelernt?
 
 In diesem Projekt haben wir gelernt, wie man ein Dropdown Menü macht. Dies hat uns auch sehr geholfen, beim Erstellen dieser Webseite und ist allgemein ziemlich hilfreich.
 
 ## Beschreibung
 
-Ein Dropdown-Menü ist ein häufiges Element in der Webentwicklung, das Benutzern eine Liste mit Optionen zur Auswahl bietet. In HTML werden Dropdown-Menüs mit dem `<select>`-Element erstellt, während Optionen mit dem `<option>`-Tag definiert werden. CSS wird verwendet, um das Erscheinungsbild des Dropdown-Menüs anzupassen.
+Ein Dropdown-Menü ist ein häufiges genutztes Element im Webdesign, das Benutzern, wenn sie über ein gewisses Feld hovern, ein kleines Fenster zeigt mit mehr auswählbaren Optionen. Dropdown-Menüs sind vorallem nützlich, wenn man mehrere Unterseiten von einer Seite erreichbar machen will, da Sie sehr Platzsparend sind. Man kann ein Dropdown-Menü auf verschiedene Weisen erstellen, also haben wir uns entschieden ```<div>``` zu verwenden. CSS wird verwendet, um das Dropdownfenster beim hovern anzuzeigen und allgemein das Erscheinungsbild des Dropdown-Menüs anzupassen.
 
 ```html
 <div class="dropdown">
@@ -56,9 +56,9 @@ HTML und CSS bilden die Grundlage für die Erstellung und Anpassung von Dropdown
 
 * `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
 
-* `Code:` Dieser Code ist die Bewegung unseres Charakteres in unserem Programm.
+* `Code:` Der obenstehende HTML- und CSS-Code ist ein Teil unserer Webseite und erzeugt ein Dropdown-Menü.
 
-* `Gif:` Das Video dient zur Demonstration des Programmes.
+* `Gif:` Das Video dient zur Demonstration des Dropdown-Menüs wenn man darüber hovert.
 
 
 # Reflektion zum Arbeitsprozess
