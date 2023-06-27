@@ -64,6 +64,7 @@ HTML und CSS bilden die Grundlage für die Erstellung und Anpassung von Dropdown
 # Reflektion zum Arbeitsprozess
 
 👍 Bei unserer Arbeit lief gut, das wir durch vorwissen schnell mit dem Programmieren starten konnte.
+
 👎 Bei unserer Arbeit lief nicht gut, aufgrund unzureichender Absprachen bezüglich der Aufgabenverteilung und einer allgemein erschwerten Kommunikationssituation.
 
 **VBV**: Wir sollten besser kommunizieren und unter uns abmachen wer was genau machen soll.
