@@ -1,13 +1,16 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+### Coconut
+#### Gruppenleiter: Justus Meister
+
+Gruppenmitglieder: Cyril Lutziger, Lennard Buehler, Timo Goedertier
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt geht es um eine Webseite, auf der man Resultate der Fussball WM anschauen kann.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+In diesem Projekt haben wir gelernt, wie man ein Dropdown Menü macht. Dies hat uns auch sehr geholfen, beim erstellen dieser Webseite und ist allgemein ziemlich hilfreich.
 
 ## Beschreibung
 
@@ -28,4 +31,4 @@
 
 👎 und etwas, was nicht gut lief.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Wir sollten besser kommunizieren und unter uns abmachen wer was genau machen soll.
