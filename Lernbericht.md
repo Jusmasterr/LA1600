@@ -18,6 +18,7 @@ In diesem Projekt haben wir gelernt, wie man ein Dropdown Menü macht. Dies hat 
 
 Ein Dropdown-Menü ist ein häufiges Element in der Webentwicklung, das Benutzern eine Liste mit Optionen zur Auswahl bietet. In HTML werden Dropdown-Menüs mit dem <select>-Element erstellt, während Optionen mit dem <option>-Tag definiert werden. CSS wird verwendet, um das Erscheinungsbild des Dropdown-Menüs anzupassen.
 
+
 ````html
 <div class="dropdown">
   <li class="dropItem"><a href="results.html">Results</a></li>
