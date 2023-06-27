@@ -54,12 +54,17 @@ HTML und CSS bilden die Grundlage für die Erstellung und Anpassung von Dropdown
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+* `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes und des Gifs.
+
+* `Code:` Dieser Code ist die Bewegung unseres Charakteres in unserem Programm.
+
+* `Gif:` Das Video dient zur Demonstration des Programmes.
+
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
-
-👎 und etwas, was nicht gut lief.
+👍 Bei unserer Arbeit lief gut, das wir durch vorwissen schnell mit dem Programmieren starten konnte.
+👎 Bei unserer Arbeit lief nicht gut, aufgrund unzureichender Absprachen bezüglich der Aufgabenverteilung und einer allgemein erschwerten Kommunikationssituation.
 
 **VBV**: Wir sollten besser kommunizieren und unter uns abmachen wer was genau machen soll.
+
