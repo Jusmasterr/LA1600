@@ -50,7 +50,7 @@ Mithilfe von CSS können verschiedene Stile angewendet werden, um das Dropdown-M
 
 HTML und CSS bilden die Grundlage für die Erstellung und Anpassung von Dropdown-Menüs. HTML wird verwendet, um die Struktur des Menüs zu definieren und die Optionen festzulegen. Mit CSS wird das Erscheinungsbild mit Farben, Schriftarten und Abständen gestaltet. Die Kombination dieser beiden Technologien ermöglicht es Entwicklern, benutzerfreundliche Dropdown-Menüs zu erstellen, die sowohl funktional als auch visuell ansprechend sind.
 
-![grafik]([https://user-images.githubusercontent.com/110893288/189858335-38cf1383-f245-46b5-a7c4-cea46df80fe6.png](https://im4.ezgif.com/tmp/ezgif-4-e3e822ddf1.gif))
+![grafik]([https://im4.ezgif.com/tmp/ezgif-4-e3e822ddf1.gif))
 
 ## Verifikation
 
