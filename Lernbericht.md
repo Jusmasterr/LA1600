@@ -29,9 +29,11 @@ Ein Dropdown-Menü ist ein häufiges Element in der Webentwicklung, das Benutzer
     <a href="2006.html">2006</a>
   </div>
 </div>
+```
 
 Mithilfe von CSS können verschiedene Stile angewendet werden, um das Dropdown-Menü anzupassen. Hintergrundfarbe, Schriftart und Positionierung können zur Anpassung von Schaltflächen und Dropdown-Listen verwendet werden. Pseudoklassen wie :hover können für interaktive Effekte verwendet werden.
 
+```css
 .dropdownContent {
   font-size: 25px;
   display: none;
@@ -46,6 +48,7 @@ Mithilfe von CSS können verschiedene Stile angewendet werden, um das Dropdown-M
   display: block;
   border-radius: 5px;
 }
+```
 
 HTML und CSS bilden die Grundlage für die Erstellung und Anpassung von Dropdown-Menüs. HTML wird verwendet, um die Struktur des Menüs zu definieren und die Optionen festzulegen. Mit CSS wird das Erscheinungsbild mit Farben, Schriftarten und Abständen gestaltet. Die Kombination dieser beiden Technologien ermöglicht es Entwicklern, benutzerfreundliche Dropdown-Menüs zu erstellen, die sowohl funktional als auch visuell ansprechend sind.
 
